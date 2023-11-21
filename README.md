@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Poland living in Belfast (northern ireland)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=ogrodowczyk87&label=Profile%20views&color=0e75b6&style=flat" alt="ogrodowczyk87](https://camo.githubusercontent.com/1ec9834b287b0804c3f69325ead7b5227508a8af7faa37bcbb2c013f4d596cf4/68747470733a2f2f73616d6d6c792d686f73742e636f6d2f696d616765732f736974652e676966)" /> </p>
+
 
 
 - 🌱 I’m currently learning **React and Node.js**
