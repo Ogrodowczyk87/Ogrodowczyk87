@@ -27,7 +27,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogrodowczyk87&show_icons=true&locale=en" alt="ogrodowczyk87" /></p>
 
 
 
