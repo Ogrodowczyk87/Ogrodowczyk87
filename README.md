@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafal Ogrodowczyk</h1>
 <h3 align="center">A passionate frontend developer from Poland living in Belfast (northern ireland)</h3>
-<img align="right" alt="Coding" width="400" boreder-radius="5px" src="https://giphy.com/stickers/devrock-javascript-edr-escueladevrock-ln7z2eWriiQAllfVcn">
+<img align="right" alt="Coding" width="400" boreder-radius="5px" src="https://giphy.com/stickers/devrock-javascript-edr-escueladevrock-ln7z2eWriiQAllfVcn](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tnc3IyMTNoc29td2ltNXg2cWNpc2MzYnd4bnlueGh5ZXVmdWg0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif">
 
 
 
