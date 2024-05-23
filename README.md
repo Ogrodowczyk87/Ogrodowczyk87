@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Poland living in Belfast (northern ireland)</h3>
 <img align="right" alt="Coding" width="400" boreder-radius="5px" src="https://giphy.com/stickers/devrock-javascript-edr-escueladevrock-ln7z2eWriiQAllfVcn](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tnc3IyMTNoc29td2ltNXg2cWNpc2MzYnd4bnlueGh5ZXVmdWg0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif">
 
-
+<iframe src="https://giphy.com/embed/eNAsjO55tPbgaor7ma" width="476" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/devrock-edr-escueladevrock-no-de-eNAsjO55tPbgaor7ma">via GIPHY</a></p>
 
 - 🌱 I’m currently learning **React and Node.js**
 
