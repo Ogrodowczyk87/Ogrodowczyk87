@@ -19,7 +19,7 @@
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 
-<p align="left">
+<p align="left" display="flex">
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS"/>
   </a>
