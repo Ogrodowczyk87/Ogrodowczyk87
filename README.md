@@ -9,11 +9,13 @@
 
 <h3 align="left">🚀 About Me:</h3>
 
-- 🏗 Currently working at Amazon and transitioning into IT / Cloud
-- ☁️ Learning AWS (Cloud Practitioner + hands-on projects)
-- 🛠 Building a Shift Allocation System (React + AWS)
-- 📦 Interested in CI/CD, Infrastructure as Code, and automation
-- 🎯 Goal: Junior Cloud / DevOps role
+<ul>
+  <li>🏗 Currently working at Amazon and transitioning into IT / Cloud</li>
+  <li>☁️ Learning AWS (Cloud Practitioner + hands-on projects)</li>
+  <li>🛠 Building a Shift Allocation System (React + AWS)</li>
+  <li>📦 Interested in CI/CD, Infrastructure as Code, and automation</li>
+  <li>🎯 Goal: Junior Cloud / DevOps role</li>
+</ul>
 
 ---
 
@@ -25,13 +27,41 @@
 
 ---
 
-<h3 align="left">☁️ AWS Experience:</h3>
+<h3 align="left">☁️ Cloud & Infrastructure:</h3>
 
-- Amazon S3 (static hosting)
-- Amazon CloudFront (CDN)
-- AWS IAM (access control)
-- Amazon EC2 (basic usage)
-- AWS Budgets (cost control)
+<p>
+  This project is deployed using AWS cloud services with a production-oriented architecture:
+</p>
+
+<ul>
+  <li><b>Frontend Hosting:</b> Amazon S3 (static website hosting)</li>
+  <li><b>CDN & Security:</b> Amazon CloudFront (global distribution, HTTPS, caching)</li>
+  <li><b>Backend Deployment:</b> AWS App Runner (fully managed API service with auto scaling)</li>
+  <li><b>Database:</b> Amazon RDS (PostgreSQL, managed relational database with backups)</li>
+  <li><b>Access Control:</b> AWS IAM (roles and policies for secure resource access)</li>
+  <li><b>Cost Monitoring:</b> AWS Budgets (alerts and usage tracking)</li>
+</ul>
+
+---
+
+<h3 align="left">🏗️ Architecture Overview:</h3>
+
+<pre>
+User → CloudFront → S3 (Frontend)
+                     ↓
+               App Runner (Backend API)
+                     ↓
+              RDS PostgreSQL (Database)
+</pre>
+
+---
+
+<h3 align="left">⚙️ CI/CD (in progress):</h3>
+
+<p>
+  Planning to implement automated deployment using GitHub Actions 
+  for building and deploying frontend to S3 and backend services.
+</p>
 
 ---
 
