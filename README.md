@@ -1,8 +1,12 @@
 <h2 align="center">Hi 👋, I'm Rafal</h2>
-<h3 align="center">Cloud / DevOps focused developer building production-oriented AWS systems</h3>
+
+<h3 align="center">
+Junior Software Engineer | React, TypeScript & AWS 🌐
+</h3>
 
 <p align="center">
-  Full-stack developer transitioning into Cloud / DevOps through hands-on AWS projects, infrastructure design, and operational system development.
+Frontend-focused Software Engineer building applications with React, TypeScript and AWS.
+Passionate about creating practical solutions, learning cloud technologies, and gaining hands-on experience through real-world projects.
 </p>
 
 ---
