@@ -34,17 +34,17 @@ Passionate about creating practical solutions, learning cloud technologies, and 
 <h3 align="left">☁️ AWS & Infrastructure:</h3>
 
 <p>
-  My main project is deployed using AWS managed services with a production-oriented architecture:
+  My main project is a production-style web application built with React, TypeScript and AWS managed services:
 </p>
 
 <ul>
-  <li><b>Frontend Hosting:</b> AWS Amplify (React + TypeScript frontend)</li>
-  <li><b>Backend Hosting:</b> AWS App Runner (Node.js + GraphQL API)</li>
-  <li><b>Database:</b> Amazon RDS PostgreSQL</li>
-  <li><b>Authentication:</b> Amazon Cognito (JWT-based authentication)</li>
-  <li><b>Storage:</b> Amazon S3 (employee photo uploads)</li>
-  <li><b>CDN:</b> Amazon CloudFront (image delivery & caching)</li>
-  <li><b>Monitoring & Cost Control:</b> AWS Budgets & CloudWatch</li>
+  <li><b>Frontend:</b> React + TypeScript deployed with AWS Amplify</li>
+  <li><b>Backend:</b> Node.js + GraphQL API hosted on AWS App Runner</li>
+  <li><b>Database:</b> Amazon RDS PostgreSQL for structured application data</li>
+  <li><b>Authentication:</b> Amazon Cognito with JWT-based authentication</li>
+  <li><b>Storage:</b> Amazon S3 for employee photo uploads</li>
+  <li><b>Content Delivery:</b> Amazon CloudFront for image delivery and caching</li>
+  <li><b>Monitoring & Cost Control:</b> Amazon CloudWatch and AWS Budgets</li>
 </ul>
 
 ---
@@ -54,18 +54,22 @@ Passionate about creating practical solutions, learning cloud technologies, and 
 <pre>
 User
   ↓
-AWS Amplify (React Frontend)
+AWS Amplify
+(React + TypeScript Frontend)
   ↓
-Amazon Cognito (JWT Authentication)
+Amazon Cognito
+(JWT Authentication)
   ↓
-AWS App Runner (Node.js + GraphQL API)
+AWS App Runner
+(Node.js + GraphQL API)
   ↓
 ┌─────────────────────────────┐
 ↓                             ↓
 Amazon RDS               Amazon S3
 (PostgreSQL)             (Photo Storage)
                                ↓
-                         CloudFront CDN
+                         Amazon CloudFront
+                         (Image Delivery)
 </pre>
 
 ---
@@ -73,10 +77,11 @@ Amazon RDS               Amazon S3
 <h3 align="left">⚙️ Current Focus:</h3>
 
 <ul>
-  <li>Improving allocation and planning logic</li>
-  <li>Expanding AWS architecture knowledge</li>
-  <li>CI/CD automation with GitHub Actions</li>
-  <li>Infrastructure and deployment workflows</li>
+  <li>Building clean and maintainable React + TypeScript features</li>
+  <li>Improving application logic for allocation and planning workflows</li>
+  <li>Connecting frontend features with backend APIs and AWS services</li>
+  <li>Learning CI/CD workflows with GitHub Actions</li>
+  <li>Developing practical AWS cloud architecture knowledge</li>
 </ul>
 
 ---
@@ -88,7 +93,6 @@ Amazon RDS               Amazon S3
     rafaldevops.com
   </a>
 </p>
-
 ---
 
 <h3 align="left">📫 Connect with me:</h3>
